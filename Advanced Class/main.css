@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    list-style: none;
+}
+
+.navbar a {
+    color: black;
+    font-weight: 600;
+    font-size:32px;
+    padding: 10px 22px;
+    transition: all .40s ease;
+
+}
+
+.navbar a:hover{
+    color: blue;
+
+}
+
