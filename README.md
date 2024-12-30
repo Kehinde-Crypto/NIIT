@@ -1,0 +1,3 @@
+# In this repo has a the concepts of python 
+and a project that contains all that you need to get ready for python
+from list dictionaries and more ...
