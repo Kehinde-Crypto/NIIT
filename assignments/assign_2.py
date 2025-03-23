@@ -1,3 +1,4 @@
+# calculating the days  of the week
 values = (input('User Enter seven values:'))
 day_1 = 'Monday'
 day_2 = 'Tuesday'
